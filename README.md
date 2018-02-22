@@ -1,4 +1,7 @@
+[原文地址](https://github.com/reactjs/rfcs/blob/master/text/0002-new-version-of-context.md)
+
 ## 简介
+
  介绍用于解决现有局限性的全新Context API。
 
 ##  基本实例
